@@ -24,7 +24,7 @@ class BasicCalculator {
 public class calculator {
 
     public static void main(String[] args) {
-        calculator calc = new calculator();
+        BasicCalculator calc = new BasicCalculator();
 
         double a = 12.5;
         double b = 3.0;
